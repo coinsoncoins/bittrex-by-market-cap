@@ -1,0 +1,22 @@
+{
+  "name": "bittrex-by-market-cap",
+  "version": "1.0.0",
+  "description": "sort the coins on bittrex by market cap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coinsoncoins/bittrex-by-market-cap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coinsoncoins/bittrex-by-market-cap/issues"
+  },
+  "homepage": "https://github.com/coinsoncoins/bittrex-by-market-cap#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
